@@ -1,0 +1,3 @@
+              - name: iOS Build Action Xcode Select
+                uses: manishasodekar/ios-build-action-xcode-select@v1.0.0
+            
